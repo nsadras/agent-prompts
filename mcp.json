@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "Linear": {
+      "url": "https://mcp.linear.app/sse",
+      "headers": {}
+    },
+    "Cursor DB": {
+      "command": "/Users/nsadras/.local/bin/uv run --with mcp[cli] mcp run /Users/nsadras/Development/cursor-db-mcp/cursor-db-mcp-server.py"
+    }
+  }
+}
